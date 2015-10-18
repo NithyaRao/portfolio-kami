@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocFlix
+title: Blocccit
 thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: Bloccit is a Reddit replica to teach the fundamentals of web development and Rails.
 
 ---
 

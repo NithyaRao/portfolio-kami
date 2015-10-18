@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocccit
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/bloccit.png"
 short-description: Bloccit is a Reddit replica to teach the fundamentals of web development and Rails.
 
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Blocmark
+thumbnail-path: "img/blocmark.png"
+short-description: Build a production quality social bookmarking app that allows users to email, manage and share bookmarked URLs.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocmark.png)
 
 ## Explanation
 
